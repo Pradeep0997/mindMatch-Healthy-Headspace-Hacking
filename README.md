@@ -62,13 +62,13 @@ MindMatch is a calming, minimal web app that helps users connect with their emot
   **Tip**
 
   
- [mindMatch5](https://github.com/user-attachments/assets/84647703-bf7d-496c-9dfc-6940c9aa6885)
+ ![mindMatch5](https://github.com/user-attachments/assets/84647703-bf7d-496c-9dfc-6940c9aa6885)
 
  
  **DarkMode**
  
  
- [mindMatch4](https://github.com/user-attachments/assets/a6c50a34-1471-42d9-9554-8dbfa15097e2)
+ ![mindMatch4](https://github.com/user-attachments/assets/a6c50a34-1471-42d9-9554-8dbfa15097e2)
  
 
 ---
