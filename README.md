@@ -41,7 +41,7 @@ MindMatch is a calming, minimal web app that helps users connect with their emot
 | **API/Data** | Local static JSON for quotes/tips        |
 | **Routing**  | React Router DOM                         |
 | **State**    | React Hooks (`useState`, `useEffect`)    |
-| **Deployment** | Netlify (Frontend) + Render (Backend) |
+| **Deployment** | Vercel                                 |
 | **Tools**    | VS Code, Git, GitHub, OBS for screen recording |
 
 ---
