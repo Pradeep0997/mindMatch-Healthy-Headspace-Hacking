@@ -1,9 +1,13 @@
 # 🌿 **MindMatch** — A Daily Dose of Mental Wellness
 
-![MindMatch Banner](![mindMatch2](https://github.com/user-attachments/assets/7bf8a7a8-6845-4d0a-a4b4-567c4fe91db5)
-)
+
+
+[mindMatch2](https://github.com/user-attachments/assets/7bf8a7a8-6845-4d0a-a4b4-567c4fe91db5)
+
 
 MindMatch is a calming, minimal web app that helps users connect with their emotions, receive gentle affirmations, motivational quotes, and find mental health resources—all in one place.
+
+
 
 🧠 **Built with empathy, for empathy.**
 
@@ -27,6 +31,8 @@ MindMatch is a calming, minimal web app that helps users connect with their emot
 
 ---
 
+
+
 ## 🧰 Built With
 
 | Layer        | Tech Used                               |
@@ -41,14 +47,16 @@ MindMatch is a calming, minimal web app that helps users connect with their emot
 
 ---
 
+
+
 ## 📸 Screenshots
 
 | Home Page | Mood Tips | Dark Mode |
 |-----------|-----------|-----------|
-| ![Home](![mindMatch3](https://github.com/user-attachments/assets/f7d60b0f-8806-494b-ae5e-658428424648)
-) | ![Tip](![mindMatch5](https://github.com/user-attachments/assets/84647703-bf7d-496c-9dfc-6940c9aa6885)
-) | ![DarkMode](![mindMatch4](https://github.com/user-attachments/assets/a6c50a34-1471-42d9-9554-8dbfa15097e2)
-) |
+| ![Home]![mindMatch3](https://github.com/user-attachments/assets/f7d60b0f-8806-494b-ae5e-658428424648)
+ | ![Tip]![mindMatch5](https://github.com/user-attachments/assets/84647703-bf7d-496c-9dfc-6940c9aa6885)
+ | ![DarkMode]![mindMatch4](https://github.com/user-attachments/assets/a6c50a34-1471-42d9-9554-8dbfa15097e2)
+ |
 
 ---
 
@@ -76,21 +84,24 @@ css
 Copy
 Edit
 client/
-│
-├── components/
-│   ├── Affirmation.js
-│   ├── MoodSelector.js
-│   ├── Recommendation.js
-│   ├── Quote.js
-│   └── Resources.js
-├── App.js
-├── index.css
-├── index.js
-└── ...
+ │
+ ├── components/
+ │   ├── Affirmation.js
+ │   ├── MoodSelector.js
+ │   ├── Recommendation.js
+ │   ├── Quote.js
+ |   └── Resources.js
+ ├── App.js
+ ├── index.css
+ ├── index.js
+ └── ...
 
 
 ---
 🙌 Support Mental Health
+
+
+
 💚 If you or someone you know needs help, please visit:
 
 Mental Health America
@@ -100,17 +111,26 @@ NAMI Helpline
 Suicide Prevention Hotline (Call 988)
 
 
+
 ---
 📜 License
+
+
 This project is open-source and available under the MIT License.
 
 💡 Inspiration
+
+
 MindMatch was inspired by a desire to make emotional self-care easy, accessible, and stigma-free.
 Sometimes, one kind word or reminder is all it takes to change the direction of someone’s day.
 
 
 ---
+
 🔗 Connect With Me
+
+
+
 GitHub: @Pradeep0997
 
 LinkedIn: Settipalle Pradeep Reddy
